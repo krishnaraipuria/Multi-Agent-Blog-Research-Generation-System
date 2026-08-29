@@ -1,4 +1,4 @@
-# BlogForge AI
+# Research2Write AI
 
 ### Multi-Agent AI Blog Generation System
 
@@ -6,7 +6,7 @@ BlogForge AI is an AI-powered multi-agent system that researches a given topic, 
 
 ## Workflow
 
-User → Router → Researcher → Orchestrator → Multiple Workers → Reducer → Final Blog
+User → Router → Researcher → Planner → Multiple Workers → Reducer → Final Blog
 
 ## Tech Stack
 
